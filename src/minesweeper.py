@@ -3,7 +3,6 @@
 from random import randint
 from colorama import Fore, Back, Style, init, deinit
 from re import compile, match
-from sys import exit
 
 class Board(object):
 	'''
