@@ -8,10 +8,16 @@ This game has only been tested on Windows.
 
 ## Before Starting
 * Make sure [Python 3](https://www.python.org/downloads/release/python-352/) is installed
-* Install [colorama](https://pypi.python.org/pypi/colorama) package (pip install colorama)
+* Install [colorama](https://pypi.python.org/pypi/colorama) package: <br />
+ ```
+ pip install colorama
+ ```
 
 ## To Play
-* Run minesweeper.py using the console
+* Run [minesweeper.py](https://github.com/chunkhang/minesweeper/blob/master/src/minesweeper.py) using the console: <br />
+ ```
+ python minesweeper.py
+ ```
 * For the best experience: 
 	* Maximize the console
 	* Set screen background to black (0, 0, 0)
